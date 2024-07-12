@@ -29,6 +29,8 @@ Both directories include:
 
 ## Compilation and Execution
 
+First of all you should have a C++11 standard compiler installed.
+
 ### Serial Implementation
 
 Navigate to the `serial` directory and compile the code using the provided Makefile:
