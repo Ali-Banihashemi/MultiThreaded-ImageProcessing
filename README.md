@@ -29,7 +29,10 @@ Both directories include:
 
 ## Compilation and Execution
 
-First of all you should have a C++11 standard compiler installed.
+First, ensure you have a C++11 standard compiler installed.
+This project was tested on a Linux system, but it should also run on other operating systems with minimal adjustments.
+
+To run this project on a Linux system after cloning the repository:
 
 ### Serial Implementation
 
@@ -39,12 +42,15 @@ Navigate to the `serial` directory and compile the code using the provided Makef
 cd serial
 make
 ```
+Place your desired image (input_image.bmp) in the respective directory before proceeding with execution.
 
 Run the executable with the input image:
 
 ```
 ./ImageFilters.out <input_image.bmp>
 ```
+
+
 
 ### Parallel Implementation
 
@@ -54,6 +60,8 @@ Navigate to the `parallel` directory and compile the code using the provided Mak
 cd parallel
 make
 ```
+
+Place your desired image (input_image.bmp) in the respective directory before proceeding with execution.
 
 Run the executable with the input image:
 
