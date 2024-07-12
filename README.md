@@ -81,6 +81,8 @@ Execution Time: <execution_time> seconds
 
 Input: The program expects a 24-bit bitmap image.
 
+![Sample Input Image](https://github.com/Ali-Banihashemi/MultiThreaded_ImageProcessing/blob/main/Samples/input.png)
+
 Output: The processed images will be saved as:
 
 Serial_First.bmp and Serial_Second.bmp for the serial version
