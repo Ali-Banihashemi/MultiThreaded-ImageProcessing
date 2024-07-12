@@ -59,7 +59,7 @@ Run the executable with the input image:
 ./ImageFilters.out <input_image.bmp>
 ```
 
-###Measuring Performance
+### Measuring Performance
 
 The execution time for both serial and parallel implementations will be printed to the standard output:
 
@@ -67,7 +67,7 @@ The execution time for both serial and parallel implementations will be printed 
 Execution Time: <execution_time> seconds
 ```
 
-##Input and Output
+## Input and Output
 
 Input: The program expects a 24-bit bitmap image.
 
