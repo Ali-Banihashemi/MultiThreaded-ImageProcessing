@@ -93,9 +93,13 @@ Parallel_First.bmp and Parallel_Second.bmp for the parallel version
 
 In each directory (serial and parallel), the first image (Serial_First.bmp or Parallel_First.bmp) showcases the results after applying all standard filters. These include horizontal and vertical mirroring, along with a sepia tone effect.
 
+![Sample First Output Image](https://github.com/Ali-Banihashemi/MultiThreaded_ImageProcessing/blob/main/Samples/output1.png)
+
 ### Second Image (Edge Detection):
 
 The second image (Serial_Second.bmp or Parallel_Second.bmp) in each directory illustrates the outcome of a comprehensive edge detection process. This includes applying a Box blur, a binary kernel, and a Laplacian kernel to highlight edges within the image.
+
+![Sample Second Output Image](https://github.com/Ali-Banihashemi/MultiThreaded_ImageProcessing/blob/main/Samples/output2.png)
 
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alibanihashemi02/) or [Email](mailto:alibanihashemi@outlook.com) for any questions or collaborations.
