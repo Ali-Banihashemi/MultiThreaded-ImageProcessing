@@ -87,11 +87,11 @@ Serial_First.bmp and Serial_Second.bmp for the serial version
 
 Parallel_First.bmp and Parallel_Second.bmp for the parallel version
 
-First Image (Normal Filters):
+### First Image (Normal Filters):
 
 In each directory (serial and parallel), the first image (Serial_First.bmp or Parallel_First.bmp) showcases the results after applying all standard filters. These include horizontal and vertical mirroring, along with a sepia tone effect.
 
-Second Image (Edge Detection):
+### Second Image (Edge Detection):
 
 The second image (Serial_Second.bmp or Parallel_Second.bmp) in each directory illustrates the outcome of a comprehensive edge detection process. This includes applying a Box blur, a binary kernel, and a Laplacian kernel to highlight edges within the image.
 
